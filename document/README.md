@@ -5,6 +5,7 @@ create a local repo
 commiting that repo
 creating a repo on github
 push/updating the local repo on github
+Fixing merge conflicts 
 
 PULL REQUESTS
 fork the repo
